@@ -1,5 +1,10 @@
 # goConfigHandler
 ![Go Build and Test](https://github.com/KevinCFechtel/goConfigHandler/actions/workflows/go_build_and_test.yml/badge.svg)
+[![Top Language](https://img.shields.io/github/languages/top/KevinCFechtel/goConfigHandler)](https://github.com/KevinCFechtel/goConfigHandler/search?l=go)
+[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/KevinCFechtel/goConfigHandler?label=go.mod)](https://github.com/KevinCFechtel/goConfigHandler/blob/main/go.mod)
+[![Go Report Card](https://goreportcard.com/badge/github.com/KevinCFechtel/goConfigHandler)](https://goreportcard.com/report/github.com/KevinCFechtel/goConfigHandler)
+[![GoDoc](https://godoc.org/github.com/KevinCFechtel/goConfigHandler?status.svg)](https://pkg.go.dev/github.com/KevinCFechtel/goConfigHandler@main)
+[![License](https://img.shields.io/github/license/KevinCFechtel/goConfigHandler?color=blue)](https://github.com/KevinCFechtel/goConfigHandler/blob/main/LICENSE)
 
 This package provides a "secure" handling of json formatted config files.
 It tries to read and save config files encrypted from different locations.

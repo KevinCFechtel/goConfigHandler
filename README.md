@@ -1,5 +1,5 @@
 # goConfigHandler
-![Build and Test](https://github.com/KevinCFechtel/utils/actions/workflows/go_build_and_test.yml/badge.svg)
+![Go Build and Test](https://github.com/KevinCFechtel/goConfigHandler/actions/workflows/go_build_and_test.yml/badge.svg)
 
 This package provides a "secure" handling of json formatted config files.
 It tries to read and save config files encrypted from different locations.

@@ -1,5 +1,6 @@
 # goConfigHandler
 [![Go Build and Test](https://github.com/KevinCFechtel/goConfigHandler/actions/workflows/go_build_and_test.yml/badge.svg)](https://github.com/KevinCFechtel/goConfigHandler/actions/workflows/go_build_and_test.yml)
+[![CodeQL](https://github.com/KevinCFechtel/goConfigHandler/actions/workflows/codeql.yml/badge.svg?branch=main&event=push)](https://github.com/KevinCFechtel/goConfigHandler/actions/workflows/codeql.yml)
 [![Top Language](https://img.shields.io/github/languages/top/KevinCFechtel/goConfigHandler)](https://github.com/KevinCFechtel/goConfigHandler/search?l=go)
 [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/KevinCFechtel/goConfigHandler?label=go.mod)](https://github.com/KevinCFechtel/goConfigHandler/blob/main/go.mod)
 [![Go Report Card](https://goreportcard.com/badge/github.com/KevinCFechtel/goConfigHandler)](https://goreportcard.com/report/github.com/KevinCFechtel/goConfigHandler)

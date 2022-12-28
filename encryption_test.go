@@ -10,14 +10,14 @@ func TestCheckIfTextIsEncrypted(t *testing.T) {
 	encryptedText := "Encrypted"
 
 	testPlaintext := checkIfTextIsEncrypted([]byte(plaintext))
-	testEncrptedText := checkIfTextIsEncrypted([]byte(encryptedText))
+	testEncryptedText := checkIfTextIsEncrypted([]byte(encryptedText))
 
 	if testPlaintext {
 		t.Fatalf("got %t for Plaintext %s", testPlaintext, plaintext)
 	}
 
 	if !testEncrptedText {
-		t.Fatalf("got %t for encyrpted Text \"%s\"", testEncrptedText, encryptedText)
+		t.Fatalf("got %t for encrypted Text \"%s\"", testEncryptedText, encryptedText)
 	}
 }
 

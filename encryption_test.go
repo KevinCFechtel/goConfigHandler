@@ -16,7 +16,7 @@ func TestCheckIfTextIsEncrypted(t *testing.T) {
 		t.Fatalf("got %t for Plaintext %s", testPlaintext, plaintext)
 	}
 
-	if !testEncrptedText {
+	if !testEncryptedText {
 		t.Fatalf("got %t for encrypted Text \"%s\"", testEncryptedText, encryptedText)
 	}
 }
